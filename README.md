@@ -11,7 +11,7 @@ This project documents a hands-on web application penetration testing exercise c
 ## Own Host Setup (Attacker)
 - **Machine:** Local attacker workstation
 - **Browser:** Used as the primary attack tool (manual URL manipulation, DevTools, login forms)
-- **Method:** All attacks were performed manually through the browser address bar and application UI against the hosted Heroku target — no external scanning or automated exploitation tools were required.
+- **Method:** All attacks were performed manually through the browser address bar and application UI against the hosted Heroku target, no external scanning or automated exploitation tools were required.
 
 ---
 *Lab completed as part of a web application security / penetration testing course exercise.*
