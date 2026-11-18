@@ -1,8 +1,4 @@
-# LAB 4: Active Activity — OWASP Juice Shop Penetration Testing
-
-- **Name:** Allysha Maisarah binti Zakaria
-- **ID:** 52215226181
-- **Class:** L01-B01
+# LAB 4: Active Activity OWASP Juice Shop Penetration Testing
 
 ## Introduction
 This project documents a hands-on web application penetration testing exercise conducted against OWASP Juice Shop, an intentionally vulnerable application built for security training, awareness demos, and CTF-style practice. The goal of this lab was to identify and exploit common web application vulnerabilities, including Cross-Site Scripting (XSS), SQL Injection, weak credentials, and broken authentication, to understand how these flaws arise and how they can be mitigated in real-world systems.
